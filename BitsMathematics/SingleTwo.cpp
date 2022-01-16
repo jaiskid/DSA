@@ -53,4 +53,5 @@ int main() {
 	auto answer = SingleTwoBitshashmap(arr, n);
 	cout << ans.first << "	" << ans.second << endl;
 	cout << answer.first << "	" << answer.second << endl;
+	cout << (1<<3);
 }
