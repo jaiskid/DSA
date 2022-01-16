@@ -11,7 +11,7 @@ int MaximumSubarraysum(vector<int> &arr) {
 		}
 		ms = max(cs, ms);
 	}
-	return ms;;
+	return ms;
 }
 int main() {
 #ifndef ONLINE_JUDGE
