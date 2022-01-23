@@ -19,4 +19,5 @@ int main() {
 	for (auto i : prime) {
 		cout << i << "	";
 	}
+	
 }
